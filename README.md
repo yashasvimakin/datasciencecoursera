@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera Leraning 
+Coursera Learning 
